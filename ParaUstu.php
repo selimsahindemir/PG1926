@@ -37,16 +37,7 @@ echo "********************** <br>";
 $para=$odendi-$tuttu;
 echo "Para Üstü => ".$para."<br>";
 echo "********************** <br>"; 
-function ParaKontrol($para_sonuc){
-	$sonuc=0;
-	if($para_sonuc<=0){
-		$sonuc=0;
-	}else{
-		$sonuc=$para_sonuc;
-		
-	}
-	return $sonuc;
-}
+
 if($para >=0 ){
 	
     $para =  $para * 100;
