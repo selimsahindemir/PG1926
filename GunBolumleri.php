@@ -1,7 +1,7 @@
 <?php
-
-$bugün= date("H");
 date_default_timezone_set('Europe/Istanbul');
+$bugün= date("H");
+
 if ($bugün >= "06" AND $bugün < "10")
 {
 	echo 'Günaydın';
