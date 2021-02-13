@@ -4,7 +4,7 @@
 	</head>
 	<body style="text-align:center ; background: #e7eff8; border: 2px solid #e66465 ";>
 			<table style="margin: 0px; line-height: 1.5; text-align: center;">
-		<form action="4para.php" method="post">
+		<form action="" method="post">
   	<tr>
     	<td>Alışveriş Tutarı =></td>
     	<td><input name="tuttu" type="text"/></td>
