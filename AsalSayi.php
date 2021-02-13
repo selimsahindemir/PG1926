@@ -1,7 +1,8 @@
-<?php 
+<?php
       $kontrol=0;
       $sayi= $_POST['sayi'];
-       for ($a=2; $a<($sayi/2) ; $a++)
+      if(is_numeric($sayi)){
+       for ($a=2; $a<=($sayi-1) ; $a++)
          {
          if($sayi%$a==0)
          {
@@ -14,4 +15,7 @@
          {
           echo " Sayınız asal sayıdır. Çünkü hiçbir sayıya tam bölünmemektedir.";
           }
+        }else{
+          echo "Lütfen bir sayı giriniz.";
+        }
       ?>
