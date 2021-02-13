@@ -1,6 +1,6 @@
 <html style="margin: 0px; line-height: 1.5; text-align: center;">
 	<head>
-		<title>Sefa Kuru - Para Üstü</title>
+		<title>Selim Şahin DEMİR - Para Üstü</title>
 	</head>
 	<body style="text-align:center ; background: #e7eff8; border: 2px solid #e66465 ";>
 			<table style="margin: 0px; line-height: 1.5; text-align: center;">
